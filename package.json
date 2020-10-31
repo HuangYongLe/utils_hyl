@@ -1,0 +1,20 @@
+{
+  "name": "utils_hyl",
+  "version": "1.0.0",
+  "description": "这是一个工具函数库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuangYongLe/utils_hyl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuangYongLe/utils_hyl/issues"
+  },
+  "homepage": "https://github.com/HuangYongLe/utils_hyl#readme"
+}
