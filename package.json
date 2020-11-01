@@ -1,18 +1,18 @@
 {
   "name": "utils_hyl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "这是一个工具函数库",
   "main": "dist/h-utils.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HuangYongLe/utils_hyl.git"
   },
-  "keywords": [],
+  "keywords": ["utils", "function", "array"],
   "author": "hyl <yongle_h@126.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/HuangYongLe/utils_hyl/issues"
   },
